@@ -2,4 +2,4 @@
 
 first project ever
 
-## Starting to like git
+## Learning about branching
